@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sajifio@gmail.com
+	name = Fiorella Salazar
